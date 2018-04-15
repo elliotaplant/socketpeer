@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "cross-env": "^4.0.0",
+    "events": "^1.1.1",
     "inherits": "^2.0.1",
     "simple-peer": "^4.0.2",
     "ws": "^5.1.1",
