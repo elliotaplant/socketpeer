@@ -12,10 +12,10 @@
   "dependencies": {
     "cross-env": "^4.0.0",
     "events": "^1.1.1",
-    "inherits": "^2.0.1",
+    "inherits": "^2.0.3",
     "simple-peer": "^9.0.0",
     "ws": "^5.1.1",
-    "xtend": "^4.0.0"
+    "xtend": "^4.0.1"
   },
   "devDependencies": {
     "browserify": "^9.0.3",
